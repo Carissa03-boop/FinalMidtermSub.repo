@@ -22,6 +22,7 @@ footer{
     padding-left: 100px;
     padding-top: 15px;
     color: white;
+    font-family: 'Lobster Two', cursive;
 }
 
 .footer{
@@ -49,7 +50,31 @@ footer{
     border-radius: 50%;
     margin: 0% auto;
     margin-bottom: 10px;
-    background-color: #2b2b2b;
+    background-image: url('../assets/John.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+
+.round-images{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0% auto;
+    margin-bottom: 10px;
+    background-image: url('../assets/Jane.jpg');
+    background-position: center;
+    background-size: cover;
+
+}
+
+.round-imagee{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0% auto;
+    margin-bottom: 10px;
+    background-image: url('../assets/Susan.jpg');
     background-position: center;
     background-size: cover;
 
@@ -65,6 +90,7 @@ footer{
     margin-top: 5px;
     border-radius: 5px;
     margin-left: 30px;
+    font-family: 'Lobster Two', cursive;
 
     
 }
@@ -80,3 +106,10 @@ footer{
     background-color: #2b2b2b;
     color: #ffffff;
 }
+
+.input-el{
+    background-color: lightgray;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
